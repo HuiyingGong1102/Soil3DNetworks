@@ -8,7 +8,6 @@ This repository contains the data, code, and analysis scripts associated with th
 ## Project Structure
 - `data/` : Soil datasets (RDS format)  
 - `code/` : R and Python scripts for data preprocessing, clustering, network construction, correlation analysis, and visualization  
-- `figures/` : Figures generated for the paper  
 - `README.md` : This document
 
 ## Key Analyses
