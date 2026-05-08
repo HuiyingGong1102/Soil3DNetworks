@@ -6,8 +6,8 @@
 This repository contains the data, code, and analysis scripts for the study of 3D soil interaction networks and their multifunctionality (EMF) across large geographic scales. The project includes network construction, functional clustering, topological analysis, and visualization.
 
 ## Project Structure
-- `code/` : R scripts for data preprocessing, clustering, network construction, correlation analysis, and visualization
-- `data/` : Soil datasets (.rds and small .csv files)
+- `code/` : R and Python scripts for data preprocessing, clustering, network construction, correlation analysis, and visualization
+- `data/` : Soil datasets (RDS format)
 - `README.md` : This document
 
 **Notes:**
